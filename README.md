@@ -1,4 +1,4 @@
-# Convex optimization and CNNs
+# Convex optimization and NNs
 
 ## Practical sessions
 
